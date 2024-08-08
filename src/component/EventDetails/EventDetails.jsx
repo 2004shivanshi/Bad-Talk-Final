@@ -20,7 +20,7 @@ function EventDetails() {
       </div> */}
       <img src={event} alt="Event" />
       <p>
-        <b>Event Venue</b> - Premium Audi IPS Academy Rajendra Nagar, Indore
+        <b>Event Venue</b> - Premium Audi, IPS Academy, Institute of Engineering and Science, Rajendra Nagar, Indore
       </p>
       <p>
         <b>Event Date</b> - 08 August 2024

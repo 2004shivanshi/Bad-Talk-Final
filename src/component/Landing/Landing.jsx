@@ -125,7 +125,7 @@ export default function Landing() {
         <div className="md:absolute md:bottom-44 md:left-4 lg:left-24 h-40 w-full md:w-96">
           <ArrowRight size={50} className="-rotate-45" />
           <h3 className="pl-3 font-semibold text-xl">
-            Venue : Premium Audi, IPS Academy <br /> Rajendra Nagar, Indore,
+            Venue : Premium Audi, IPS Academy, Institute of Engineering and Science, <br /> Rajendra Nagar, Indore,
             Madhya Pradesh, 452012{" "}
           </h3>
         </div>
