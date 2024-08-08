@@ -82,7 +82,7 @@ export default function Internship() {
                 {" "}
                 Build and style web pages using HTML, CSS, and JavaScript. Perfect for learning front-end development and design principles.
               </p>
-              <a className="text-sm font-bold text-red-600" href="/contact">
+              <a className="text-sm font-bold text-red-600" href=" https://forms.gle/sPy8PqTemcKDQaHGA">
                 Apply Now
               </a>
             </div>
